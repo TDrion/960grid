@@ -22,6 +22,12 @@ body
     background-color: dimgray;
 }
 
+img
+{
+    height: 145px;
+    width: 145px;
+}
+
 footer
 {
     text-align: center;
