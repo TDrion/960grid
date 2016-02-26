@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+#container_12
+{
+    color: white;
+    background-color: dimgray;
+}
+
+#grid_6
+{
+    color: white;
+    background-color: dimgray;
+}
+
+#grid_4
+{
+    color: white;
+    background-color: dimgray;
+}
+
+footer
+{
+    text-align: center;
+}
